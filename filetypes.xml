@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="http" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
